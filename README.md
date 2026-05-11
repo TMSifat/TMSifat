@@ -9,8 +9,8 @@
 
 ### GitHub Stats
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TMSifat&theme=tokyonight" width="100%" /></p>p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TMSifat&theme=tokyonight" alt="Streak Stats" /></p>p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TMSifat&theme=tokyonight" width="100%" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TMSifat&theme=tokyonight" alt="Streak Stats" /></p>
 
 ### Top Projects
 **[Luxuray-Estate](https://github.com/TMSifat/Luxuray-Estate)** | **[my-web](https://github.com/TMSifat/my-web)** | **[WT-Project](https://github.com/TMSifat/WT-Project)** | **[Super-Shop-Management](https://github.com/TMSifat/Super-Shop-Management)**
