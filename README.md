@@ -1,4 +1,5 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=300&section=header&text=Tanvir%20Mustabi%20Sifat&fontSize=70&animation=fadeIn" width="100%" />
 
 [![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3ECF8E&center=true&vCenter=true&width=435&lines=Full-stack+Developer;React+%26+Next.js+Expert;Supabase+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
@@ -9,9 +10,12 @@
 
 ### GitHub Stats
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=TMSifat&theme=tokyonight" width="100%" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TMSifat&theme=tokyonight" alt="Streak Stats" /></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TMSifat&theme=tokyonight" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TMSifat&theme=tokyonight" alt="Streak Stats" />
 
 ### Top Projects
+
 **[Luxuray-Estate](https://github.com/TMSifat/Luxuray-Estate)** | **[my-web](https://github.com/TMSifat/my-web)** | **[WT-Project](https://github.com/TMSifat/WT-Project)** | **[Super-Shop-Management](https://github.com/TMSifat/Super-Shop-Management)**
+
 </div>
